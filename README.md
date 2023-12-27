@@ -1,1 +1,1 @@
-Script Run automation ada di Automation.java
+Script Run automation ada di src/test/java/automation/simple/Automation.java
