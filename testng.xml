@@ -1,0 +1,14 @@
+<?xml version:"1.0" encoding:"UTF-8">
+<!DOCTYPE suite system "http://testng.org/testng-1.0.dtd">
+
+<suite name:"TestSuite">
+    <test thread-count:"2" parallel:"methods" name:"">
+        <classes>
+            <class name:"automation.simple.Automation">
+                <methods>
+                    <include name:"suksesCari"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
